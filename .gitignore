@@ -1,0 +1,11 @@
+# Local audio source - never commit to git, use GitHub Releases instead
+songs/
+SnapTube Audio/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep manifests - do NOT ignore these
+!songs.json
+!music-release.json
